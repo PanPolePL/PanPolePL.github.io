@@ -1,0 +1,70 @@
+html { 
+    background: url(img/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+body{
+    color: rgb(255, 255, 255);
+    font-family: 'Rubik', sans-serif;
+}
+
+#container{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.rectangle{
+    width: 920px;
+    margin: 20px;
+    background-color:rgba(0, 0, 0, 0.5);
+    font-size: 50px;
+    padding:20px;
+}
+
+.square{
+    width: 420px;
+    height: 420px;
+    margin: 20px;
+    float: left;
+    background-color:rgba(0, 0, 0, 0.5);
+}
+
+.tile1{
+    width:150px;
+    height:150px;
+    margin:20px;
+    padding:10px;
+    background-color:rgb(12, 138, 138); 
+    float: left;
+}
+
+.tile2{
+    width:150px;
+    height:150px;
+    margin:20px;
+    padding:10px;
+    background-color:rgb(26, 165, 33);
+    float: left;
+}
+
+.tile3{
+    width:150px;
+    height:150px;
+    margin:20px;
+    padding:10px;
+    background-color:rgb(163, 100, 18); 
+    float: left;
+}
+
+.tile4{
+    width:150px;
+    height:150px;
+    margin:20px;
+    padding:10px;
+    background-color:rgb(149, 26, 165);
+    float: left;
+}
