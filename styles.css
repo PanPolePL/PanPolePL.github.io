@@ -23,6 +23,7 @@ body{
     background-color:rgba(0, 0, 0, 0.5);
     font-size: 50px;
     padding:20px;
+    border-radius: 50px;
 }
 
 .square{
@@ -33,6 +34,7 @@ body{
     background-color:rgba(0, 0, 0, 0.5);
     font-size: 24px;
     text-align: center;
+    border-radius: 50px;
 }
 
 .tile1{
@@ -42,6 +44,7 @@ body{
     padding:10px;
     background-color:rgb(12, 138, 138); 
     float: left;
+    border-radius: 35px;
 }
 
 .tile2{
@@ -51,6 +54,7 @@ body{
     padding:10px;
     background-color:rgb(26, 165, 33);
     float: left;
+    border-radius: 35px;
 }
 
 .tile3{
@@ -60,6 +64,7 @@ body{
     padding:10px;
     background-color:rgb(163, 100, 18); 
     float: left;
+    border-radius: 35px;
 }
 
 .tile4{
@@ -69,6 +74,7 @@ body{
     padding:10px;
     background-color:rgb(149, 26, 165);
     float: left;
+    border-radius: 35px;
 }
 
 .tile1:hover{
