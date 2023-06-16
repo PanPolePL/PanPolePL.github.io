@@ -96,3 +96,10 @@ body{
     transition: 500ms;
     background-color:rgb(119, 0, 135); 
 }
+
+p1{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
