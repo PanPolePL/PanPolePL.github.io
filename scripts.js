@@ -12,7 +12,7 @@ document.getElementById("t2").addEventListener("click", function() {
 });
 
 document.getElementById("t3").addEventListener("click", function() {
-    document.getElementById("info").innerHTML ="ski";
+    document.getElementById("info").innerHTML ="Languages <br/> C++ <br/> Python <br/> Java <br/> HTML <br/> CSS <br/> JavaScript";
 });
 
 document.getElementById("t4").addEventListener("click", function() {
