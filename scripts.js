@@ -20,5 +20,5 @@ document.getElementById("t3").addEventListener("click", function() {
 
 document.getElementById("t4").addEventListener("click", function() {
     document.getElementById("info-header").innerHTML ="Quotes"
-    document.getElementById("info").innerHTML ="<q>My name is Linus, and I am your God.</q> <br/> —Linus Torvalds <br/> <br/> Any program is only as good as it is useful. <br/> —Linus Torvalds";
+    document.getElementById("info").innerHTML ="<q>My name is Linus, and I am your God.</q> <br/> —Linus Torvalds <br/> <br/> <q>Any program is only as good as it is useful.</q> <br/> —Linus Torvalds";
 });
