@@ -15,7 +15,7 @@ document.getElementById("t2").addEventListener("click", function() {
 
 document.getElementById("t3").addEventListener("click", function() {
     document.getElementById("info-header").innerHTML ="Skills"
-    document.getElementById("info").innerHTML ="C++ <br/> Python <br/> Java <br/> HTML <br/> CSS <br/> JavaScript";
+    document.getElementById("info").innerHTML ="C/C++ <br/> Python <br/> Java <br/> HTML <br/> CSS <br/> JavaScript";
 });
 
 document.getElementById("t4").addEventListener("click", function() {
