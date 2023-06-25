@@ -5,7 +5,7 @@ window.onload = function(){
 
 document.getElementById("t1").addEventListener("click", function() {
     document.getElementById("info-header").innerHTML ="About me"
-    document.getElementById("info").innerHTML ="First name: Jacob <br/> Nationality: 🇵🇱 <br/> Hobbies: 🚲, 🏸";
+    document.getElementById("info").innerHTML ="Nationality: 🇵🇱 <br/> Hobbies: 🚲, 🏸";
 });
 
 document.getElementById("t2").addEventListener("click", function() {
