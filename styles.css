@@ -19,6 +19,7 @@ body{
 
 .rectangle{
     width: 950px;
+    height: 110px;
     margin: 20px;
     background-color:rgba(0, 0, 0, 0.5);
     font-size: 50px;
@@ -134,12 +135,36 @@ h1{
     vertical-align:auto;
 }
 
-.st{
+.project1{
     width:60px;
     height:60px;
     margin-top: 15px;
-    margin-left: 50px;
+    margin-left: 200px;
     padding:10px;
+    background-color:rgb(80,20,100); 
+    float: left;
+    border-radius: 20px;
+    vertical-align:auto;
+}
+
+.project2{
+    width:76px;
+    height:76px;
+    margin-top: 17px;
+    margin-left: 50px;
+    padding:0px;
+    background-color:rgb(255, 255, 255); 
+    float: left;
+    border-radius: 20px;
+    vertical-align:auto;
+}
+
+.project3{
+    width:80px;
+    height:80px;
+    margin-top: 15px;
+    margin-left: 50px;
+    padding:0px;
     background-color:rgb(42, 71, 94); 
     float: left;
     border-radius: 20px;
