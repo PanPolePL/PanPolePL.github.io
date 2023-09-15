@@ -19,6 +19,7 @@ body{
 
 .rectangle{
     width: 950px;
+    height: 110px;
     margin: 20px;
     background-color:rgba(0, 0, 0, 0.5);
     font-size: 50px;
