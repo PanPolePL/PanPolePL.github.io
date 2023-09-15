@@ -10,7 +10,7 @@ document.getElementById("t1").addEventListener("click", function() {
 
 document.getElementById("t2").addEventListener("click", function() {
     document.getElementById("info-header").innerHTML ="Education"
-    document.getElementById("info").innerHTML ="I am currently studying at a bilingual high school in Sieradz.";
+    document.getElementById("info").innerHTML ="High school: II LO Sieradz";
 });
 
 document.getElementById("t3").addEventListener("click", function() {
