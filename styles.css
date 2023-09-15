@@ -135,7 +135,31 @@ h1{
     vertical-align:auto;
 }
 
-.st{
+.project1{
+    width:60px;
+    height:60px;
+    margin-top: 15px;
+    margin-left: 100px;
+    padding:10px;
+    background-color:rgb(80,20,100); 
+    float: left;
+    border-radius: 20px;
+    vertical-align:auto;
+}
+
+.project2{
+    width:60px;
+    height:60px;
+    margin-top: 15px;
+    margin-left: 50px;
+    padding:10px;
+    background-color:rgb(255, 255, 255); 
+    float: left;
+    border-radius: 20px;
+    vertical-align:auto;
+}
+
+.project3{
     width:60px;
     height:60px;
     margin-top: 15px;
