@@ -185,3 +185,13 @@ h1{
     transition: 500ms;
     background-color:rgb(70,10,90); 
 }
+
+.project2:hover{
+    transition: 500ms;
+    filter: brightness(80%);
+}
+
+.project3:hover{
+    transition: 500ms;
+    filter: brightness(80%);
+}
