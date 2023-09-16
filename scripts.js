@@ -10,7 +10,7 @@ document.getElementById("t1").addEventListener("click", function() {
 
 document.getElementById("t2").addEventListener("click", function() {
     document.getElementById("info-header").innerHTML ="Education"
-    document.getElementById("info").innerHTML ="High school: II LO Sieradz";
+    document.getElementById("info").innerHTML ="High school: II LO Sieradz <br/> I study math and physics at the extended level and English at the bilingual level.";
 });
 
 document.getElementById("t3").addEventListener("click", function() {
