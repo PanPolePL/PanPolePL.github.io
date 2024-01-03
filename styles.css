@@ -99,43 +99,32 @@ h1{
     margin-left: 50px;
 }
 
-.project1{
-    width:60px;
-    height:60px;
+.tile_project{
+    width:78px;
+    height:78px;
     margin-top: 15px;
     margin-left: 200px;
-    padding:10px;
+    padding:0px;
+    float: left;
+    border-radius: 20px;
+    vertical-align:auto;
+}
+
+#project1{
     background-color:rgb(80,20,100); 
-    float: left;
-    border-radius: 20px;
-    vertical-align:auto;
 }
 
-.project2{
-    width:78px;
-    height:78px;
-    margin-top: 15px;
-    margin-left: 50px;
-    padding:0px;
+#project2{
     background-color:rgb(255, 255, 255); 
-    float: left;
-    border-radius: 20px;
-    vertical-align:auto;
-}
-
-.project3{
-    width:78px;
-    height:78px;
-    margin-top: 15px;
     margin-left: 50px;
-    padding:0px;
-    background-color:rgb(42, 71, 94); 
-    float: left;
-    border-radius: 20px;
-    vertical-align:auto;
 }
 
-.project1:hover, .project2:hover, .project3:hover, .tile_big:hover, .tile_small:hover{
+#project3{
+    background-color:rgb(42, 71, 94); 
+    margin-left: 50px;
+}
+
+.project1:hover, .project2:hover, .project3:hover, .tile_big:hover, .tile_small:hover, .tile_project:hover{
     transition: 500ms;
     filter: brightness(80%); 
 }
