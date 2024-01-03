@@ -135,7 +135,7 @@ h1{
     vertical-align:auto;
 }
 
-.yt:hover, .gh:hover, .project1:hover, .project2:hover, .project3:hover, .tile1:hover, .tile2:hover, .tile3:hover, .tile4:hover{
+.project1:hover, .project2:hover, .project3:hover, .tile_big:hover, .tile_small:hover{
     transition: 500ms;
     filter: brightness(80%); 
 }
