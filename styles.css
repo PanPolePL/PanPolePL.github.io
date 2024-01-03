@@ -46,19 +46,19 @@ body{
     border-radius: 35px;
 }
 
-#t1{
+#about_me{
     background-color:rgb(12, 138, 138); 
 }
 
-#t2{
+#education{
     background-color:rgb(26, 165, 33);
 }
 
-#t3{
+#skills{
     background-color:rgb(163, 100, 18); 
 }
 
-#t4{
+#quotes{
     background-color:rgb(149, 26, 165);
 }
 
